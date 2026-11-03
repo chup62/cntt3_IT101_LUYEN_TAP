@@ -1,0 +1,3 @@
+Ban giao du an website dat san GreenField.
+Website demo nam trong thu muc web: logo khong hien va bang gia khong hien.
+Khong upload file .env len GitHub.
